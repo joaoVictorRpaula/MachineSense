@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataGenerator.Domain\DataGenerator.Domain.csproj" />
+    <ProjectReference Include="..\DataGenerator.Entities\DataGenerator.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

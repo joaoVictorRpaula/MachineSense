@@ -1,0 +1,15 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\bin\Debug\net5.0\DataGenerator.Domain.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\bin\Debug\net5.0\DataGenerator.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\bin\Debug\net5.0\DataGenerator.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\bin\Debug\net5.0\DataGenerator.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\bin\Debug\net5.0\DataGenerator.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.csproj.CopyComplete
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\refint\DataGenerator.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\DataGenerator.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Domain\obj\Debug\net5.0\ref\DataGenerator.Domain.dll

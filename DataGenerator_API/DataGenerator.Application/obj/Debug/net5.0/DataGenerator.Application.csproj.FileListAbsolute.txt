@@ -1,0 +1,17 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\bin\Debug\net5.0\DataGenerator.Application.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\bin\Debug\net5.0\DataGenerator.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\bin\Debug\net5.0\DataGenerator.Application.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\bin\Debug\net5.0\DataGenerator.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\bin\Debug\net5.0\DataGenerator.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\bin\Debug\net5.0\DataGenerator.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\bin\Debug\net5.0\DataGenerator.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.csproj.CopyComplete
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\refint\DataGenerator.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\DataGenerator.Application.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Application\obj\Debug\net5.0\ref\DataGenerator.Application.dll

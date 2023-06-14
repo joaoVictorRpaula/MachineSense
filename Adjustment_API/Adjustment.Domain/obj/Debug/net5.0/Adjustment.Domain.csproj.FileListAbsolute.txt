@@ -1,0 +1,15 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\bin\Debug\net5.0\Adjustment.Domain.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\bin\Debug\net5.0\Adjustment.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\bin\Debug\net5.0\Adjustment.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\bin\Debug\net5.0\Adjustment.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\bin\Debug\net5.0\Adjustment.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.csproj.CopyComplete
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\refint\Adjustment.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\Adjustment.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Domain\obj\Debug\net5.0\ref\Adjustment.Domain.dll

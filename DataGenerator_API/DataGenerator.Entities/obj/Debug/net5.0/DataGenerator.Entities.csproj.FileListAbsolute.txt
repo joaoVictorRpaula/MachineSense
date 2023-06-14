@@ -1,0 +1,12 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\DataGenerator.Entities.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\DataGenerator.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\DataGenerator.Entities.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\DataGenerator.Entities.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\DataGenerator.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\bin\Debug\net5.0\DataGenerator.Entities.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\bin\Debug\net5.0\DataGenerator.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\bin\Debug\net5.0\DataGenerator.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\DataGenerator.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\refint\DataGenerator.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\DataGenerator.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.Entities\obj\Debug\net5.0\ref\DataGenerator.Entities.dll
