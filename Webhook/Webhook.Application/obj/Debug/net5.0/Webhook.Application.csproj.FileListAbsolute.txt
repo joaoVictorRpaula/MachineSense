@@ -1,0 +1,17 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\bin\Debug\net5.0\Webhook.Application.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\bin\Debug\net5.0\Webhook.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\bin\Debug\net5.0\Webhook.Application.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\bin\Debug\net5.0\Webhook.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\bin\Debug\net5.0\Webhook.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\bin\Debug\net5.0\Webhook.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\bin\Debug\net5.0\Webhook.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.csproj.CopyComplete
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\refint\Webhook.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\Webhook.Application.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Application\obj\Debug\net5.0\ref\Webhook.Application.dll

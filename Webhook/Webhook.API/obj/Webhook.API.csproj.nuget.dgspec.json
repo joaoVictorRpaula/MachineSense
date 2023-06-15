@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.API\\Webhook.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.API\\Webhook.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.API\\Webhook.API.csproj",
+        "projectName": "Webhook.API",
+        "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.API\\Webhook.API.csproj",
+        "packagesPath": "C:\\Users\\Play\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Play\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\Webhook.Application.csproj": {
+                "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\Webhook.Application.csproj"
+              },
+              "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\Webhook.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\Webhook.Application.csproj",
+        "projectName": "Webhook.Application",
+        "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\Webhook.Application.csproj",
+        "packagesPath": "C:\\Users\\Play\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Play\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\Webhook.Domain.csproj": {
+                "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\Webhook.Domain.csproj"
+              },
+              "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\Webhook.Entities.csproj": {
+                "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\Webhook.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\Webhook.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\Webhook.Domain.csproj",
+        "projectName": "Webhook.Domain",
+        "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\Webhook.Domain.csproj",
+        "packagesPath": "C:\\Users\\Play\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Play\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\Webhook.Entities.csproj": {
+                "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\Webhook.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\Webhook.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\Webhook.Entities.csproj",
+        "projectName": "Webhook.Entities",
+        "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\Webhook.Entities.csproj",
+        "packagesPath": "C:\\Users\\Play\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Play\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj",
+        "projectName": "Webhook.Infraestructure",
+        "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Play\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Play\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\Webhook.Domain.csproj": {
+                "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Domain\\Webhook.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

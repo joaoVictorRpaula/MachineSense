@@ -1,0 +1,17 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\bin\Debug\net5.0\Webhook.Infraestructure.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\bin\Debug\net5.0\Webhook.Infraestructure.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\bin\Debug\net5.0\Webhook.Infraestructure.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\bin\Debug\net5.0\Webhook.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\bin\Debug\net5.0\Webhook.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\bin\Debug\net5.0\Webhook.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\bin\Debug\net5.0\Webhook.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.csproj.CopyComplete
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\refint\Webhook.Infraestructure.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\Webhook.Infraestructure.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Infraestructure\obj\Debug\net5.0\ref\Webhook.Infraestructure.dll
