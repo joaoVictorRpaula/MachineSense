@@ -19,7 +19,7 @@ namespace MachineSense_Webhook.API.Controllers
         }
 
         [HttpPost("DataGeneratorTopic")]
-        public IActionResult ReceiveNewDataResponseDataGenerator([FromBody] DataResponse dataResponse)
+        public IActionResult NewDataResponseDataGenerator([FromBody] DataResponse dataResponse)
         {
             if (!ModelState.IsValid)
             {

@@ -1,6 +1,7 @@
 ﻿using DataGenerator.Domain.Interfaces;
 using DataGenerator.Entities.Entities;
 using DataGenerator.Infrastructure.Interfaces;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,10 +13,11 @@ namespace DataGenerator.Infrastructure.Services
     public class DataResponseInfraService : IDataResponse
     {
         private readonly IHttpService _httpService;
-
-        public DataResponseInfraService(IHttpService httpService)
+        private readonly ILogger<DataResponseInfraService> _Logger;
+        public DataResponseInfraService(IHttpService httpService, ILogger<DataResponseInfraService> Logger)
         {
             _httpService = httpService;
+            _Logger = Logger;
         }
 
         public async Task NotifyNewDataResponse(DataResponse dataResponse)
