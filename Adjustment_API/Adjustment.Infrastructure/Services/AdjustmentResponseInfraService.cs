@@ -32,7 +32,7 @@ namespace Adjustment.Infrastructure.Services
             var success = await _httpService.PostAsync("", adjustmentResponse);
             if (!success)
             {
-                throw new Exception("Error sending adjustment to adjustment component");
+                throw new Exception("Error sending adjustmentResponse to adjustment component");
             }
         }
     }
