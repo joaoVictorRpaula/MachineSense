@@ -11,18 +11,24 @@ namespace Adjustment.Application.Application
 {
     public class ApplicationAdjustmentResponse : IApplicationAdjustmentResponse
     {
-        private readonly IAdjustmentResponse 
-        public Task AddAdjustmentResponse(AdjustmentResponse adjustmentResponse)
+        private readonly IAdjustmentCalculateResponseService _IAdjustmentResponseService;
+
+        public ApplicationAdjustmentResponse(IAdjustmentCalculateResponseService iAdjustmentResponseService)
         {
-            throw new NotImplementedException();
+            _IAdjustmentResponseService = iAdjustmentResponseService;
         }
 
-        public Task<List<AdjustmentResponse>> CalculateAdjustment(DataResponse dataResponse)
+
+        public async Task<List<AdjustmentResponse>> CalculateAdjustment(DataResponse dataResponse)
         {
-            throw new NotImplementedException();
+            return await _IAdjustmentResponseService.CalculateAdjustment(dataResponse);
         }
 
         public Task SendToAdjustmentComponent(AdjustmentResponse adjustmentResponse)
+        {
+            throw new NotImplementedException();
+        }
+        public Task AddAdjustmentResponse(AdjustmentResponse adjustmentResponse)
         {
             throw new NotImplementedException();
         }

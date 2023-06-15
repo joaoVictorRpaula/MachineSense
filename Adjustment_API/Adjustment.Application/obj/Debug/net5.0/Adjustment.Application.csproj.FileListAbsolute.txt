@@ -1,0 +1,17 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\bin\Debug\net5.0\Adjustment.Application.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\bin\Debug\net5.0\Adjustment.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\bin\Debug\net5.0\Adjustment.Application.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\bin\Debug\net5.0\Adjustment.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\bin\Debug\net5.0\Adjustment.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\bin\Debug\net5.0\Adjustment.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\bin\Debug\net5.0\Adjustment.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.csproj.CopyComplete
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\refint\Adjustment.Application.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\Adjustment.Application.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Adjustment_API\Adjustment.Application\obj\Debug\net5.0\ref\Adjustment.Application.dll

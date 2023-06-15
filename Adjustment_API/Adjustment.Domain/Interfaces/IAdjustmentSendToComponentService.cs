@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace Adjustment.Domain.Interfaces
 {
-    public interface IAdjustmentResponseService
+    public interface IAdjustmentSendToComponentService
     {
-        Task<List<AdjustmentResponse>> CalculateAdjustment(DataResponse dataResponse);
         Task SendToAdjustmentComponent(AdjustmentResponse adjustmentResponse);
-        Task AddAdjustmentResponse(AdjustmentResponse adjustmentResponse);
     }
 }

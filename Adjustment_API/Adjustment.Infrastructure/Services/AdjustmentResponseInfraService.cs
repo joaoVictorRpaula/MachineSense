@@ -1,5 +1,6 @@
 ﻿using Adjustment.Domain.Interfaces;
 using Adjustment.Entities.Entities;
+using Adjustment.Infrastructure.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,23 +9,13 @@ using System.Threading.Tasks;
 
 namespace Adjustment.Infrastructure.Services
 {
-    public class AdjustmentResponseInfraService : IAdjustmentResponseService
+    public class AdjustmentResponseInfraService : IAdjustmentSendToComponentService
     {
-        private readonly HttpService _httpService;
+        private readonly IHttpService _httpService;
 
-        public AdjustmentResponseInfraService(HttpService httpService)
+        public AdjustmentResponseInfraService(IHttpService httpService)
         {
             _httpService = httpService;
-        }
-
-        public Task AddAdjustmentResponse(AdjustmentResponse adjustmentResponse)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<List<AdjustmentResponse>> CalculateAdjustment(DataResponse dataResponse)
-        {
-            throw new NotImplementedException();
         }
 
         public async Task SendToAdjustmentComponent(AdjustmentResponse adjustmentResponse)

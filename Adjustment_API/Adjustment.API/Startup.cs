@@ -1,12 +1,22 @@
+using Adjustment.Application.Application;
+using Adjustment.Application.Interfaces;
+using Adjustment.Domain.Interfaces;
+using Adjustment.Domain.Services;
+using Adjustment.Infrastructure.Configs;
+using Adjustment.Infrastructure.Interfaces;
+using Adjustment.Infrastructure.Repositories;
+using Adjustment.Infrastructure.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Serilog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +36,25 @@ namespace Adjustment.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var logger = new LoggerConfiguration()
+               .ReadFrom.Configuration(Configuration)
+               .Enrich.FromLogContext()
+               .CreateLogger();
+            services.AddSerilog(logger);
+
+            services.AddDbContext<Context>(op =>
+                op.UseSqlServer(
+                    Configuration.GetConnectionString("DefaultConnection")),
+                    contextLifetime: ServiceLifetime.Singleton);
+            services.AddHttpClient();
+
+            services.AddSingleton<IHttpService, HttpService>();
+            services.AddSingleton<IAdjustmentSendToComponentService, AdjustmentResponseInfraService>();
+            services.AddSingleton<IAdjustmentResponse, RepositoryAdjustmentResponse>();
+            services.AddSingleton<IApplicationAdjustmentResponse, ApplicationAdjustmentResponse>();
+            services.AddSingleton<IAdjustmentCalculateResponseService, AdjustmentResponseService>();
+
+
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
