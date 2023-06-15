@@ -50,3 +50,14 @@ WHERE @@ROWCOUNT = 1 AND [IdResult] = scope_identity();
 2023-06-14 21:33:08.294 -03:00  INF  Executed action DataGenerator.API.Controllers.ResultDataController.Add (DataGenerator.API) in 7883.7385ms
 2023-06-14 21:33:08.295 -03:00  INF  Executed endpoint 'DataGenerator.API.Controllers.ResultDataController.Add (DataGenerator.API)'
 2023-06-14 21:33:08.296 -03:00  INF  Request finished HTTP/2 POST https://localhost:44393/api/ResultData application/json 190 - 200 - - 8013.4982ms
+2023-06-14 23:07:28.610 -03:00  INF  Application started. Press Ctrl+C to shut down.
+2023-06-14 23:07:28.648 -03:00  INF  Hosting environment: Development
+2023-06-14 23:07:28.649 -03:00  INF  Content root path: C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\DataGenerator_API\DataGenerator.API
+2023-06-14 23:07:28.655 -03:00  INF  Request starting HTTP/2 GET https://localhost:44393/swagger/index.html - -
+2023-06-14 23:07:29.080 -03:00  INF  Request finished HTTP/2 GET https://localhost:44393/swagger/index.html - - - 200 - text/html;charset=utf-8 427.5390ms
+2023-06-14 23:07:29.248 -03:00  INF  Request starting HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - -
+2023-06-14 23:07:29.249 -03:00  INF  Request starting HTTP/2 GET https://localhost:44393/_vs/browserLink - -
+2023-06-14 23:07:29.297 -03:00  INF  Request finished HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 44.5228ms
+2023-06-14 23:07:29.348 -03:00  INF  Request finished HTTP/2 GET https://localhost:44393/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 98.6506ms
+2023-06-14 23:07:29.399 -03:00  INF  Request starting HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - -
+2023-06-14 23:07:29.960 -03:00  INF  Request finished HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 560.5059ms
