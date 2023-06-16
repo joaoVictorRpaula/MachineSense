@@ -572,7 +572,7 @@
           "bin/placeholder/Webhook.Entities.dll": {}
         }
       },
-      "Webhook.Infraestructure/1.0.0": {
+      "Webhook.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -581,10 +581,10 @@
           "Webhook.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Webhook.Infraestructure.dll": {}
+          "bin/placeholder/Webhook.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Webhook.Infraestructure.dll": {}
+          "bin/placeholder/Webhook.Infrastructure.dll": {}
         }
       }
     }
@@ -1633,10 +1633,10 @@
       "path": "../Webhook.Entities/Webhook.Entities.csproj",
       "msbuildProject": "../Webhook.Entities/Webhook.Entities.csproj"
     },
-    "Webhook.Infraestructure/1.0.0": {
+    "Webhook.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Webhook.Infraestructure/Webhook.Infraestructure.csproj",
-      "msbuildProject": "../Webhook.Infraestructure/Webhook.Infraestructure.csproj"
+      "path": "../Webhook.Infraestructure/Webhook.Infrastructure.csproj",
+      "msbuildProject": "../Webhook.Infraestructure/Webhook.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1645,7 +1645,7 @@
       "Serilog.AspNetCore >= 7.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3",
       "Webhook.Application >= 1.0.0",
-      "Webhook.Infraestructure >= 1.0.0"
+      "Webhook.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1678,8 +1678,8 @@
             "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\Webhook.Application.csproj": {
               "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Application\\Webhook.Application.csproj"
             },
-            "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj"
+            "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infrastructure.csproj"
             }
           }
         }

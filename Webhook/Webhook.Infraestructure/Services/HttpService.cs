@@ -5,9 +5,9 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Webhook.Infraestructure.Interfaces;
+using Webhook.Infrastructure.Interfaces;
 
-namespace Webhook.Infraestructure.Services
+namespace Webhook.Infrastructure.Services
 {
     public class HttpService : IHttpService
     {

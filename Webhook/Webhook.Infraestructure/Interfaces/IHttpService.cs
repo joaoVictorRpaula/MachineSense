@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Webhook.Infraestructure.Interfaces
+namespace Webhook.Infrastructure.Interfaces
 {
     public interface IHttpService
     {

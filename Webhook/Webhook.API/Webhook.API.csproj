@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Webhook.Application\Webhook.Application.csproj" />
-    <ProjectReference Include="..\Webhook.Infraestructure\Webhook.Infraestructure.csproj" />
+    <ProjectReference Include="..\Webhook.Infraestructure\Webhook.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

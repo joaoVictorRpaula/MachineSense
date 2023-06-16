@@ -11,9 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webhook.Entities", "Webhook
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webhook.Application", "Webhook.Application", "{B937533A-9BBE-4194-9FAF-7404BD14C632}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webhook.Infraestructure", "Webhook.Infraestructure", "{EFAEDC8D-2BFA-4952-9BA6-B989C85D5368}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webhook.Infrastructure", "Webhook.Infrastructure", "{EFAEDC8D-2BFA-4952-9BA6-B989C85D5368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webhook.Infraestructure", "Webhook.Infraestructure\Webhook.Infraestructure.csproj", "{19BC7C83-2107-4BEC-B774-D56CEA7AB3F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webhook.Infrastructure", "Webhook.Infraestructure\Webhook.Infrastructure.csproj", "{19BC7C83-2107-4BEC-B774-D56CEA7AB3F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webhook.Entities", "Webhook.Entities\Webhook.Entities.csproj", "{77D06D04-4BE9-4BE7-A429-51ECD630A5E1}"
 EndProject

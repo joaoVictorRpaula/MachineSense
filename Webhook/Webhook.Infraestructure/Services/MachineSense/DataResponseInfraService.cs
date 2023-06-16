@@ -7,9 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Webhook.Domain.Interfaces.MachineSense;
 using Webhook.Entities.Entities.MachineSense;
-using Webhook.Infraestructure.Interfaces;
+using Webhook.Infrastructure.Interfaces;
 
-namespace Webhook.Infraestructure.Services.MachineSense
+namespace Webhook.Infrastructure.Services.MachineSense
 {
     public class DataResponseInfraService : IDataResponse
     {

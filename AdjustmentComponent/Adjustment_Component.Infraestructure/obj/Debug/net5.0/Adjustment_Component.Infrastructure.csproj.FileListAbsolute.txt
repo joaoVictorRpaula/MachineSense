@@ -1,0 +1,12 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\bin\Debug\net5.0\Adjustment_Component.Infrastructure.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\bin\Debug\net5.0\Adjustment_Component.Infrastructure.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\bin\Debug\net5.0\Adjustment_Component.Infrastructure.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\refint\Adjustment_Component.Infrastructure.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\ref\Adjustment_Component.Infrastructure.dll

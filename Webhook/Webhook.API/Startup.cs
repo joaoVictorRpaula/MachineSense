@@ -15,9 +15,9 @@ using System.Threading.Tasks;
 using Webhook.Application.Application.MachineSense;
 using Webhook.Application.Interfaces.MachineSense;
 using Webhook.Domain.Interfaces.MachineSense;
-using Webhook.Infraestructure.Interfaces;
-using Webhook.Infraestructure.Services;
-using Webhook.Infraestructure.Services.MachineSense;
+using Webhook.Infrastructure.Interfaces;
+using Webhook.Infrastructure.Services;
+using Webhook.Infrastructure.Services.MachineSense;
 
 namespace Webhook.API
 {

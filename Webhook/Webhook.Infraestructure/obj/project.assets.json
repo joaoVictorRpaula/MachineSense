@@ -1432,9 +1432,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj",
-      "projectName": "Webhook.Infraestructure",
-      "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infrastructure.csproj",
+      "projectName": "Webhook.Infrastructure",
+      "projectPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\Webhook.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Play\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Play\\Desktop\\PROJETOS ----\\MACHINESENSE\\Webhook\\Webhook.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
