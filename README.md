@@ -10,6 +10,6 @@
 # Use Case Diagram
 ![Use-Case Diagram](Imagens/USE-CASE.png)
 
-![Functionalities](Imagens/DataGen-GenApi.png)
-![Functionalities](Imagens/Webhook-adjApi.png)
-![Functionalities](Imagens/adj-component.png)
+![Functionalities](Imagens/DataGenerator-DataGeneratorAPI.png)
+![Functionalities](Imagens/Webhook-adjustmentApi.png)
+![Functionalities](Imagens/adjustment-component.png)
