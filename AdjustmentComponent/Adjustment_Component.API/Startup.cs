@@ -1,5 +1,8 @@
 using Adjustment_Component.Application.Applications;
 using Adjustment_Component.Application.Interfaces;
+using Adjustment_Component.Domain.Interfaces;
+using Adjustment_Component.Infrastructure.Interfaces;
+using Adjustment_Component.Infrastructure.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,9 +37,10 @@ namespace Adjustment_Component.API
                .Enrich.FromLogContext()
                .CreateLogger();
             services.AddSerilog(logger);
-
+            
             services.AddSingleton<IApplicationApplyAdjustmentResponse, ApplicationApplyAdjustmentResponse>();
-  
+            services.AddSingleton<IFileService, FileService>();
+            services.AddSingleton<IApplyAdjustmentResponse, ApplyAdjustmentResponseInfraService>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

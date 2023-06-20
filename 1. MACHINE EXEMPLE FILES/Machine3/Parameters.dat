@@ -1,9 +1,9 @@
-ANGLE
-AdjustParameter: 15
+Angle
+AdjustParameter:12
 LowerTolerance: 8
 UpperTolerance: 10
 
-DIAMETER
+Diameter
 AdjustParameter: 15
 LowerTolerance: 3
 UpperTolerance: 5

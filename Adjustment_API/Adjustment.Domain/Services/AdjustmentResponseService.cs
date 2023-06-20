@@ -50,7 +50,7 @@ namespace Adjustment.Domain.Services
                 };
 
                 adjustmentResponsesList.Add(adjustmentResponse);
-                // await SendToAdjustmentComponent(adjustmentResponse);
+                await SendToAdjustmentComponent(adjustmentResponse);
                 await AddAdjustmentResponse(adjustmentResponse);
             }
             return adjustmentResponsesList;

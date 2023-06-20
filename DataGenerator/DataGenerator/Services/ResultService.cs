@@ -13,12 +13,12 @@ namespace DataGenerator.Services
 {
     public class ResultService : IResultService
     {
-        public async Task StartGenerateResult()
+        public async Task StartGenerateResult(int timeToGenerateResult)
         {
             while (true)
             {
                 var result = ResultGenerate();
-                int timeToGenerateResult = 10;
+                
 
                 await SendToAPIAsync(result);
                 Console.WriteLine(result);

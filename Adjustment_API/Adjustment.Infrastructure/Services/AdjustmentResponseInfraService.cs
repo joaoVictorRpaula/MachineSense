@@ -20,7 +20,7 @@ namespace Adjustment.Infrastructure.Services
 
         public async Task SendToAdjustmentComponent(AdjustmentResponse adjustmentResponse)
         {
-            var success = await _httpService.PostAsync("", adjustmentResponse);
+            var success = await _httpService.PostAsync("https://localhost:44395/api/ApplyAdjustmentResponse", adjustmentResponse);
             if (!success)
             {
                 throw new Exception("Error sending adjustmentResponse to adjustment component");

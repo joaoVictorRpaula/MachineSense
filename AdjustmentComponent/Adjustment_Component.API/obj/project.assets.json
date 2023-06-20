@@ -540,7 +540,9 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Adjustment_Component.Domain": "1.0.0",
-          "Adjustment_Component.Entities": "1.0.0"
+          "Adjustment_Component.Entities": "1.0.0",
+          "Adjustment_Component.Infrastructure": "1.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0"
         },
         "compile": {
           "bin/placeholder/Adjustment_Component.Application.dll": {}
@@ -570,6 +572,22 @@
         },
         "runtime": {
           "bin/placeholder/Adjustment_Component.Entities.dll": {}
+        }
+      },
+      "Adjustment_Component.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Adjustment_Component.Domain": "1.0.0",
+          "Adjustment_Component.Entities": "1.0.0",
+          "Serilog": "2.12.0",
+          "Serilog.AspNetCore": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Adjustment_Component.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Adjustment_Component.Infrastructure.dll": {}
         }
       }
     }
@@ -1617,6 +1635,11 @@
       "type": "project",
       "path": "../Adjustment_Component.Entities/Adjustment_Component.Entities.csproj",
       "msbuildProject": "../Adjustment_Component.Entities/Adjustment_Component.Entities.csproj"
+    },
+    "Adjustment_Component.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Adjustment_Component.Infraestructure/Adjustment_Component.Infrastructure.csproj",
+      "msbuildProject": "../Adjustment_Component.Infraestructure/Adjustment_Component.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {

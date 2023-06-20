@@ -10,3 +10,8 @@ C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_
 C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\refint\Adjustment_Component.Infrastructure.dll
 C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.pdb
 C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\ref\Adjustment_Component.Infrastructure.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\bin\Debug\net5.0\Adjustment_Component.Domain.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\bin\Debug\net5.0\Adjustment_Component.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\bin\Debug\net5.0\Adjustment_Component.Domain.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\bin\Debug\net5.0\Adjustment_Component.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\AdjustmentComponent\Adjustment_Component.Infraestructure\obj\Debug\net5.0\Adjustment_Component.Infrastructure.csproj.CopyComplete
