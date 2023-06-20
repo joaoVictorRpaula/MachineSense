@@ -10,4 +10,4 @@
 # Use Case Diagram
 ![Use-Case Diagram](Imagens/USE-CASE.png)
 
-![Functionalities](Imagens/USE-CASE.png)
+![Functionalities](Imagens/Data Gen - gata Gen api.png)
