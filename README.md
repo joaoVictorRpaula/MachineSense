@@ -10,6 +10,10 @@
 # Use Case Diagram
 ![Use-Case Diagram](Imagens/USE-CASE.png)
 
+# Each component described
 ![Functionalities](Imagens/DataGenerator-DataGeneratorAPI.png)
 ![Functionalities](Imagens/Webhook-adjustmentApi.png)
 ![Functionalities](Imagens/adjustment-component.png)
+
+# Working code video
+https://youtu.be/X8Oxrq2UZcA
