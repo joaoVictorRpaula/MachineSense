@@ -11,3 +11,5 @@
 ![Use-Case Diagram](Imagens/USE-CASE.png)
 
 ![Functionalities](https://github.com/joaoVictorRpaula/MachineSense/blob/e4c3b9571d2f1c159f9c2d3ca86ce1af3182d550/Imagens/Data%20Gen%20-%20gata%20Gen%20api.png)
+![Functionalities](https://github.com/joaoVictorRpaula/MachineSense/blob/08b426700b490af4774aa02a2e8d40c78e784ce1/Imagens/Webhook%20-%20adj%20api.png)
+![Functionalities](https://github.com/joaoVictorRpaula/MachineSense/blob/08b426700b490af4774aa02a2e8d40c78e784ce1/Imagens/adj%20component.png)
