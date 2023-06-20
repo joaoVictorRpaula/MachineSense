@@ -7,4 +7,4 @@
 6. O componente de ajuste acessa o arquivo DAT da máquina de usinagem e aplica os valores de ajuste necessários no arquivo.
 7. O arquivo DAT é atualizado e a máquina de usinagem usa os novos parâmetros ajustados na próxima peça que usina.
 
-[Use-Case Diagram][Imagens/USE-CASE.png]
+![Use-Case Diagram][Imagens/USE-CASE.png]
