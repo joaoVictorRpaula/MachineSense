@@ -1,10 +1,13 @@
 # MachineSense
 
-1. Um novo resultado é gerado.
-2. O resultado é salvo no banco de dados.
-3. O webhook é acionado e envia o resultado para a API de ajuste.
-5. A API de ajuste retorna os valores de ajuste calculados para o componente de ajuste caso necessário.
-6. O componente de ajuste acessa o arquivo DAT da máquina de usinagem e aplica os valores de ajuste necessários no arquivo.
-7. O arquivo DAT é atualizado e a máquina de usinagem usa os novos parâmetros ajustados na próxima peça que usina.
+1. A new ResultData is generated.
+2. The ResultData is saved on database.
+3. The webhook is triggered and sends the result to the Adjustment_API.
+5. The Adjustment_API sends calculated adjustment values for the Adjustment_Component if needed.
+6. The Adjustment_Component accesses the machine DAT file and applies the necessary adjusted values in the file.
+7. The DAT file is updated and the machine uses the new parameters set in the next machining.
 
+# Use Case Diagram
 ![Use-Case Diagram](Imagens/USE-CASE.png)
+
+
