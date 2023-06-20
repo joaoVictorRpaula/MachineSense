@@ -10,4 +10,4 @@
 # Use Case Diagram
 ![Use-Case Diagram](Imagens/USE-CASE.png)
 
-![Functionalities](Imagens/Data Gen - gata Gen api.png)
+![Functionalities]([Imagens/Data Gen - gata Gen api.png](https://github.com/joaoVictorRpaula/MachineSense/blob/e4c3b9571d2f1c159f9c2d3ca86ce1af3182d550/Imagens/Data%20Gen%20-%20gata%20Gen%20api.png))
