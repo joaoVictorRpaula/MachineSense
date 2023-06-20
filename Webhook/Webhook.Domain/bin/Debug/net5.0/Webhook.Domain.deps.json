@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Webhook.Domain/1.0.0": {
+        "dependencies": {
+          "Webhook.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Webhook.Domain.dll": {}
+        }
+      },
+      "Webhook.Entities/1.0.0": {
+        "runtime": {
+          "Webhook.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Webhook.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Webhook.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

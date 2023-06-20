@@ -9,6 +9,6 @@ namespace DataGenerator.Interfaces
 {
     public interface IResultService
     {
-        public Task StartGenerateResult();
+        public Task StartGenerateResult(int timeToGenerateResult);
     }
 }

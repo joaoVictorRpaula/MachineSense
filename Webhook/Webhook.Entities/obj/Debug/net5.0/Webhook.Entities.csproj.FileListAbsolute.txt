@@ -1,0 +1,12 @@
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\bin\Debug\net5.0\Webhook.Entities.deps.json
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\bin\Debug\net5.0\Webhook.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\bin\Debug\net5.0\Webhook.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\Webhook.Entities.csproj.AssemblyReference.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\Webhook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\Webhook.Entities.AssemblyInfoInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\Webhook.Entities.AssemblyInfo.cs
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\Webhook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\Webhook.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\refint\Webhook.Entities.dll
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\Webhook.Entities.pdb
+C:\Users\Play\Desktop\PROJETOS ----\MACHINESENSE\Webhook\Webhook.Entities\obj\Debug\net5.0\ref\Webhook.Entities.dll

@@ -34,21 +34,10 @@ namespace DataGenerator.API.Controllers
             }
             try
             {
-                ResultData newResultData = new ResultData
-                {
-                    ResultDate = resultData.ResultDate,
-                    MachineName = resultData.MachineName,
-                    AngleResult = resultData.AngleResult,
-                    AngleUpperTol = resultData.AngleUpperTol,
-                    AngleLowerTol = resultData.AngleLowerTol,
-                    DiameterResult = resultData.DiameterResult,
-                    DiameterUpperTol = resultData.DiameterUpperTol,
-                    DiameterLowerTol = resultData.DiameterLowerTol
-                };
 
                 try
                 {
-                    await _IApplicationResultData.Add(newResultData);
+                    await _IApplicationResultData.Add(resultData);
                     _ILogger.LogInformation("Added result to database");
                 }
                 catch (DbException ex)
@@ -59,7 +48,7 @@ namespace DataGenerator.API.Controllers
 
                 DataResponse newDataResponse = new DataResponse
                 {
-                    resultData = newResultData
+                    resultData = resultData
                 };
 
                 try

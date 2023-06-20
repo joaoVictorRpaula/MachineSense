@@ -13,7 +13,7 @@ namespace DataGenerator
             IResultService resultService = new ResultService();
 
             try{
-                await resultService.StartGenerateResult();
+                await resultService.StartGenerateResult(10);
             }
             catch(Exception ex)
             {

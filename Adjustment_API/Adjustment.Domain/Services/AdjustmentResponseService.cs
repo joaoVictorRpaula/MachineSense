@@ -9,15 +9,16 @@ using System.Threading.Tasks;
 
 namespace Adjustment.Domain.Services
 {
-    public class AdjustmentResponseService : IAdjustmentResponseService
+    public class AdjustmentResponseService : IAdjustmentCalculateResponseService
     {
         private readonly IAdjustmentResponse _IAdjustmentResponse;
-        private readonly IAdjustmentResponseService _IAdjustmentResponseService;
+        private readonly IAdjustmentSendToComponentService _IAdjustmentSendToComponentService;
         private readonly ILogger<AdjustmentResponse> _Logger;
 
-        public AdjustmentResponseService(IAdjustmentResponse iAdjustmentResponse, ILogger<AdjustmentResponse> Logger)
+        public AdjustmentResponseService(ILogger<AdjustmentResponse> Logger, IAdjustmentResponse iAdjustmentResponse, IAdjustmentSendToComponentService iAdjustmentSendToComponentService)
         {
             _IAdjustmentResponse = iAdjustmentResponse;
+            _IAdjustmentSendToComponentService = iAdjustmentSendToComponentService;
             _Logger = Logger;
         }
 
@@ -44,7 +45,8 @@ namespace Adjustment.Domain.Services
                 {
                     AdjustmentDate = DateTime.Now,
                     AdjustmentMachine = dataResponse.resultData.MachineName,
-                    CalculedAdjustments = calculedAdjustment 
+                    AdjustmentCharacteristic = calculedAdjustment.Characteristic,
+                    AdjustmentQuantity = calculedAdjustment.Quantity
                 };
 
                 adjustmentResponsesList.Add(adjustmentResponse);
@@ -57,7 +59,7 @@ namespace Adjustment.Domain.Services
         public async Task SendToAdjustmentComponent(AdjustmentResponse adjustmentResponse)
         {
 
-            await _IAdjustmentResponseService.SendToAdjustmentComponent(adjustmentResponse);
+            await _IAdjustmentSendToComponentService.SendToAdjustmentComponent(adjustmentResponse);
         }
 
         public async Task AddAdjustmentResponse(AdjustmentResponse adjustmentResponse)
