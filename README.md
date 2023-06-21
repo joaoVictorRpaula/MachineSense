@@ -8,7 +8,7 @@
 7. The DAT file is updated and the machine uses the new parameters set in the next machining.
 
 # Use Case Diagram
-![Use-Case Diagram](Imagens/DIAGRAM.png)
+![Use-Case Diagram](Imagens/DIAGRAM1.png)
 
 # Each component described
 ![Functionalities](Imagens/DataGenerator-DataGeneratorAPI.png)
